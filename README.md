@@ -41,6 +41,12 @@ We've taken several approaches to decrease the run time of our program.
 
 #### Output
 
+A frame of video matching with the map in database:
+
+![Image of Result](screenshots/run.png)
+
+Other results:
+
 - An Analysis of running performance.
 
 - A mp4 file that animates the results of matching a test flight video with the corresponding google database maps. 
